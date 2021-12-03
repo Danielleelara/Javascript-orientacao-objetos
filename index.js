@@ -17,3 +17,4 @@ const clienteEstaLogado = SistemaAutenticacao.login(cliente, '456');
 console.log(clienteEstaLogado);
 console.log(gerenteEstaLogado);
 console.log(diretorEstaLogado);
+console.log(diretor);
